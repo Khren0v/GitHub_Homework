@@ -1,1 +1,24 @@
-
+<xml>
+<bug_report>	
+	<id>A1</id>
+	<title>Нажатие кнопки 'Перейти в каталог' на главной странице не перенаправляет на страницу Каталога</title>
+	<project>Сайт магазина интим-товаров 'Штучки-дрючки'</project>
+	<str>
+		1. Зайти на главную страницу сайта (ссылка_на_сайт)
+		2. Нажать кнопку Каталог
+	</str>
+	<enviroment OS="Windows 10 x64 build 19043" Browser="Google Chrome v96.0.4664.45 x64">
+		OS: Windows 10 x64 build 19043
+		Browser: Google Chrome v96.0.4664.45 x64
+	</environment>
+	<component>Кнопка Каталог</component>
+	<build>0.5.7</build>
+	<actual_result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</actual_result>
+	<expected_result>Нажатие кнопки Каталог перенаправляет на страницу Каталога</expected_result>
+	<severity>Critical</severity>
+	<priority>High</priority>
+	<status>Open</status>
+	<author>Вадим Владиславович</author>
+	<sign_to>Ололошка Кеков</sign_to>
+	<attachments>ссылка_на_картинку_или_видео_с_багом</attachments>
+</bug_report>
