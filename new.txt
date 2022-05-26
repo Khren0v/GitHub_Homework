@@ -1,0 +1,5 @@
+Firstname: Kirill
+Surname: Khrenov
+Age: 31
+Pet Count: 0
+Desired Salary: 1500$	
