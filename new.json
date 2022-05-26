@@ -1,6 +1,6 @@
 {
-	"firstName":"Kirill",
-	"lastName":"Khrenov",
+	"firstname":"Kirill",
+	"surname":"Khrenov",
 	"age":"31",
 	"petCount":"0",
 	"desiredSalary":"1500$"	
