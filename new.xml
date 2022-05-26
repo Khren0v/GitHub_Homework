@@ -1,7 +1,7 @@
 <xml>
 <user_info>
-	<user_name name="firstname">Kirill</user_name>
-	<user_name name="surname">Khrenov</user_name>
+	<field name="firstname">Kirill</field>
+	<field name="surname">Khrenov</field>
 	<age>31</age>
 	<pet_count>0</pet_count>
 	<desired_salary>1500$</desired_salary>
